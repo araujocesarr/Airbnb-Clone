@@ -2,8 +2,8 @@ import React from "react";
 
 export default function Navbar() {
   return (
-    <nav className="bg-cyan-950">
-      <h1 className="text-white">Hola</h1>
+    <nav className="shadow-1 h-[70px] flex px-9 py-5">
+      <img className="max-w-[100px]" src="src/assets/airbnb 1.png" alt="logo" />
     </nav>
   );
 }
