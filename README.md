@@ -1,2 +1,2 @@
 # Airbnb-Clone
-It is a website that mimics the structure of AirBnb Experiences.
+It is a website that imitates the AirBnb Experiences structure. 
